@@ -19,6 +19,11 @@ dist
 package.json
 ```
 
+See:
+
+* Module: https://github.com/rsp/node-nested-project-structure-example
+* Usage: https://github.com/rsp/node-nested-project-structure-usage
+
 Issues
 ------
 For any bug reports or feature requests please
