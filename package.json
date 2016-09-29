@@ -1,6 +1,6 @@
 {
   "name": "nested-project-structure-example",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "An example for a Stack Overflow answer",
   "main": "dist/index.js",
   "scripts": {
