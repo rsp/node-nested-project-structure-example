@@ -4,7 +4,7 @@
   "description": "An example for a Stack Overflow answer",
   "main": "dist/index.js",
   "scripts": {
-    "test": "node test.js"
+    "test": "node test1.js && node test2.js && node test3.js && echo TESTS OK"
   },
   "repository": {
     "type": "git",
