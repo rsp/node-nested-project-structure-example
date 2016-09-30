@@ -16,6 +16,7 @@ dist
   -- moduleA
     -- index.js
 package.json
+moduleA.js
 ```
 
 See:
