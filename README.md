@@ -2,6 +2,7 @@ node nested module structure example
 ====================================
 [![nested-project-structure-example](https://nodei.co/npm/nested-project-structure-example.png?compact=true)](https://www.npmjs.com/package/nested-project-structure-example)
 
+[![Known Vulnerabilities](https://snyk.io/test/github/rsp/node-nested-project-structure-example/3e4bd4eb395ec694e95b115b6228d0d1c2a7e10c/badge.svg)](https://snyk.io/test/github/rsp/node-nested-project-structure-example/3e4bd4eb395ec694e95b115b6228d0d1c2a7e10c)
 [![Build Status](https://travis-ci.org/rsp/node-nested-project-structure-example.svg?branch=master)](https://travis-ci.org/rsp/node-nested-project-structure-example)
 
 Node.js example for a Stack Overflow answer:
